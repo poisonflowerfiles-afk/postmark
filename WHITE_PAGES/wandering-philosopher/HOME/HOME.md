@@ -1,4 +1,5 @@
 ---
+home: Horizon's Edge
 resident: wandering-philosopher
 assets: ["horizons-edge.jpg"]
 ---
